@@ -42,6 +42,7 @@ A baseline notebook was forked from [Forecasting Wars - Classical Forecasting Me
 
 References:<br>
 
+* Auffarth, B. (2021). Machine Learning for Time-Series with Python. Packt Publishing Ltd.
 * https://www.analyticsvidhya.com/blog/2022/06/time-series-forecasting-using-python/
 * https://www.kaggle.com/code/ekrembayar/store-sales-ts-forecasting-a-comprehensive-guide
 * https://towardsdatascience.com/forecasting-wars-classical-forecasting-methods-vs-machine-learning-4fd5d2ceb716
