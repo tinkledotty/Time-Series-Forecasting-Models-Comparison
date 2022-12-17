@@ -10,12 +10,7 @@ A noob first attempt in machine learning on TS data
 
 **Objective:** Compare traditional forecasting methods with machine learning models on one of the top selling product family <br><br><br><br>
 
-References:<br>
 
-* https://www.analyticsvidhya.com/blog/2022/06/time-series-forecasting-using-python/
-* https://www.kaggle.com/code/javigallego/time-series-forecasting-tutorial#4-%7C-Time-Series-Components
-* https://www.kaggle.com/code/ekrembayar/store-sales-ts-forecasting-a-comprehensive-guide
-* https://towardsdatascience.com/forecasting-wars-classical-forecasting-methods-vs-machine-learning-4fd5d2ceb716
 
 # <b style="color:Gray;">2 <span style='color:#F1C40F'>|</span> Prepare</b>
 
@@ -152,3 +147,9 @@ fig.show()
 ![newplot (13)](https://user-images.githubusercontent.com/54738409/203565313-9e4a45ca-ffda-4c9b-81a0-f43bd162a7d0.png)
 
 
+References:<br>
+
+* https://www.analyticsvidhya.com/blog/2022/06/time-series-forecasting-using-python/
+* https://www.kaggle.com/code/javigallego/time-series-forecasting-tutorial#4-%7C-Time-Series-Components
+* https://www.kaggle.com/code/ekrembayar/store-sales-ts-forecasting-a-comprehensive-guide
+* https://towardsdatascience.com/forecasting-wars-classical-forecasting-methods-vs-machine-learning-4fd5d2ceb716
