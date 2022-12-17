@@ -3,7 +3,7 @@ First attempt in machine learning on Time series forecasting.
 
 This is part of a course project to determine the performance between traditional forecasting methods and machine learning algorithms in time-series forecasting.
 
-## Objective of the project
+## Objective
 
 A comparison between machine learning algorithms and traditional forecasting methods to predict the store sales on data from a large grocery retailer. 
 <br>
