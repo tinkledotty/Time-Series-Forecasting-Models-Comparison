@@ -1,7 +1,7 @@
 # About
 First attempt in machine learning on Time series forecasting.
 
-This is part of a project intented to determine the performance between traditional forecasting methods and machine learning algorithms in time-series forecasting.
+This is part of a course project to determine the performance between traditional forecasting methods and machine learning algorithms in time-series forecasting.
 
 ## Objective of the project
 
@@ -37,7 +37,7 @@ In this project, we will do a baseline comparison between the two methods, hence
 * MAE
 
 
-A baseline notebook was forked from [Forecasting Wars - Classical Forecasting Methods vs Machine Learning](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Forecasting%20Wars%20-%20Classical%20Forecasting%20Methods%20vs%20Machine%20Learning/Forecasting%20Wars%20-%20Classical%20Forecasting%20Methods%20vs%20Machine%20Learning.ipynb) by [Deffro](https://github.com/Deffro) and some changes were made to adapt our dataset with additional ML algorithm. 
+A baseline notebook was forked from [Forecasting Wars - Classical Forecasting Methods vs Machine Learning](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Forecasting%20Wars%20-%20Classical%20Forecasting%20Methods%20vs%20Machine%20Learning/Forecasting%20Wars%20-%20Classical%20Forecasting%20Methods%20vs%20Machine%20Learning.ipynb) by [Deffro](https://github.com/Deffro) and some changes were made to fit our dataset with additional ML algorithm. 
 
 
 References:<br>
